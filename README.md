@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning the coding language Dr Racket.
 - 💞️ I’m looking to collaborate on projects with others.
 - 📫 How to reach me ariaspena.d@northeastern.edu
-- 😄 Pronouns: she/her
+- 😄 Pronouns: she/her 
 - ⚡ Fun fact: One of my favorite hobbies is pottery.
 
 <!---
